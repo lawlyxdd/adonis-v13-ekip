@@ -1,1 +1,1 @@
-# adonis-v13-ekip
+# Adonisden aldığım ekip bot main altyapı sorun varsa discord : lawly#7000
